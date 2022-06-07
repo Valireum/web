@@ -1,0 +1,15 @@
+.licenceinfodiv .licenceinfo {
+    margin-left: 20rem;
+    margin-top: 4rem;
+}
+
+.licenceinfodiv .licenceinfo p {
+    font-size: 1.1rem;
+    margin-top: 10px;
+}
+
+.licenceinfodiv .licenceinfo h3 {
+    font-size: 1.4rem;
+    margin-top: 30px;
+    color: aliceblue;
+}
